@@ -1,11 +1,10 @@
 // Site data                                                                                                                                                  
 const siteData = {
-  title: 'Web Design III',
-  color: 'forestgreen',
+  title: 'Web Design IV',
+  color: 'yellow',
   menu: {
-    'documents': 'https://docs.google.com/document/d/1qRmnBFHDTONOIpIWSvT9bYkBgVEtPwgU3VlSAlzbhGA/edit?usp=sharing',
-    'slides': 'https://docs.google.com/presentation/d/1Fz0xDibDqD2W1s2wBNBnheQzVKvjkqVPPcNTN8_bhKM/edit?usp=sharing',
-    'are.na': 'https://are.na/ian-mcdonald/we-should-talk-about-this-website'
+    'documents': 'https://docs.google.com/document/d/1nQ73WNIXMSaMgEDtu15X_P71G8BjaMVcHesH0q9DuYk/edit?usp=sharing',
+    'slides': 'https://docs.google.com/presentation/d/1tkKa6ltX2_dJcVIoeYug4bWE_1H-JH1TIaevfK65xyI/edit?usp=sharing',
   }
 }
 
